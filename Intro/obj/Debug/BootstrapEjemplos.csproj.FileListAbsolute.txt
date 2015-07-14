@@ -1,0 +1,6 @@
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\bin\Intro.dll.config
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\bin\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\bin\Intro.pdb
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\obj\Debug\BootstrapEjemplos.csprojResolveAssemblyReference.cache
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\obj\Debug\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\obj\Debug\Intro.pdb

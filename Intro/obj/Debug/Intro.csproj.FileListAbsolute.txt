@@ -1,0 +1,18 @@
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplo\Intro\Intro\bin\Intro.dll.config
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplo\Intro\Intro\bin\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplo\Intro\Intro\bin\Intro.pdb
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplo\Intro\Intro\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplo\Intro\Intro\obj\Debug\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplo\Intro\Intro\obj\Debug\Intro.pdb
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplos\Intro\Intro\bin\Intro.dll.config
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplos\Intro\Intro\bin\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplos\Intro\Intro\bin\Intro.pdb
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplos\Intro\Intro\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplos\Intro\Intro\obj\Debug\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Ejemplos\Intro\Intro\obj\Debug\Intro.pdb
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\bin\Intro.dll.config
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\bin\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\bin\Intro.pdb
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\obj\Debug\Intro.dll
+C:\Users\Marvin.Marvin-PC\Desktop\Bootstrap Ejemplos\Intro\Intro\obj\Debug\Intro.pdb
